@@ -1,7 +1,7 @@
 
 # Spin Clothes
 
-The project is copy of Spin Clothes and it is made for practice purposes and it is like car Battle games. The gameplay purpose is gearing up 
+The project is copy of Spin Clothes and it is made for practice purposes.
 
 
 
